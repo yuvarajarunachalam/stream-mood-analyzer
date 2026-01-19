@@ -174,7 +174,7 @@ Sentiment distribution showed contextual awareness improvements with gaming term
 
 ## Academic Context
 
-This project was developed as a final year data science project at VIT Chennai, demonstrating practical applications of:
+This project was developed as a Data Science research project, demonstrating practical applications of:
 - Cloud computing services (Azure)
 - Natural language processing
 - Real-time data streaming
