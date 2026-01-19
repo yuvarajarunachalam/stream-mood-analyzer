@@ -1,0 +1,30 @@
+{
+  "recording_summary": {
+    "total_messages": 634,
+    "duration_seconds": 1198,
+    "duration_minutes": 20.0,
+    "unique_users": 203,
+    "avg_messages_per_minute": 31.75
+  },
+  "sentiment_analysis": {
+    "positive_messages": 173,
+    "neutral_messages": 190,
+    "negative_messages": 271,
+    "positive_percentage": 27.29,
+    "avg_positive_score": 0.319,
+    "avg_negative_score": 0.411
+  },
+  "engagement_metrics": {
+    "most_active_user": "User_ab007632",
+    "most_active_user_messages": 31,
+    "peak_minute": 19,
+    "peak_minute_messages": 98,
+    "top_5_users": {
+      "User_ab007632": 31,
+      "User_0169864c": 22,
+      "User_6c3a9182": 17,
+      "User_70b1c95c": 16,
+      "User_3a06bc57": 14
+    }
+  }
+}

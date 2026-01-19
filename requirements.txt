@@ -1,0 +1,5 @@
+pandas
+azure-ai-textanalytics
+matplotlib
+seaborn
+numpy
